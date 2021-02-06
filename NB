@@ -1,0 +1,4 @@
+**python oneline (true is 2 ))  square equation 
+from math import sqrt
+
+(lambda a,b,c: {(-b-sqrt(d))/2*a,(-b+sqrt(d))/2*a} if (d:=b**2-4*a*c)>=0 else {})(int(input('a=')),int(input('b=')),int(input('c=')))
